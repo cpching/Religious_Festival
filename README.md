@@ -3,18 +3,14 @@
 * file name
     * record date
 
-* key field  
-
-* country  
-
+* key field
+    * country  
         * district  
         * temple  
         * lat  
         * lng  
-     * event  
-
+        * event  
     * date  
-    
     * version
 ---
 ### Update frequency
