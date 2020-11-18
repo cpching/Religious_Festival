@@ -5,13 +5,13 @@
 
 * key field
     * country
-    ```
-        * district  
-        * temple  
-        * lat  
-        * lng  
-        * event  
-    ```
+    `
+         district  
+         temple  
+         lat  
+         lng  
+         event  
+    `
     * date  
     * version
 ---
