@@ -1,21 +1,20 @@
 # Religious_Festival
 ### Definition
 > file name
+>>record date
 
->> record date
+* key field  
 
-> key field  
+    * country  
 
->> country  
+        * district  
+        * temple  
+        * lat  
+        * lng  
+     * event  
 
->>> district  
->>> temple  
->>> lat  
->>> lng  
->>> event  
-
->> date  
->> version
+    * date  
+    * version
 ---
 ### Update frequency
 >Every 9pm if there are religious festival on the next day.
