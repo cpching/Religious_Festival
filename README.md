@@ -2,17 +2,18 @@
 
 ### Definition
 ```
-   file name
-      record date
-   key field
-      country
-         district
-         temple
-         lat
-         lng
-         event
-    date
-    version
+    file name
+        record date
+    
+    key field
+        country
+            district
+            temple
+            lat
+            lng
+            event
+        date
+        version
 ```
 ---
 ### Update frequency
