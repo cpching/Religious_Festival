@@ -1,11 +1,11 @@
 # Religious_Festival
 ### Definition
-> file name
->>record date
+* file name
+    * record date
 
 * key field  
 
-    * country  
+* country  
 
         * district  
         * temple  
@@ -14,8 +14,9 @@
      * event  
 
     * date  
+    
     * version
 ---
 ### Update frequency
->Every 9pm if there are religious festival on the next day.
+> Every 9pm if there are religious festival on the next day.
 
