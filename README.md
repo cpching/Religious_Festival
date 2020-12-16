@@ -1,19 +1,11 @@
 # Religious_Festival
 
-### Definition
-```
-file name: record date
-    
-key field
-    country
-        district
-        temple
-        lat
-        lng
-        event
-    date
-    version
-```
+### key info
+- **country:**
+        district, temple, lat, lng, event
+- **date**
+- **version**
+
 ---
 ### Update frequency
 ```
